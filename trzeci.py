@@ -1,1 +1,1 @@
-print("tekst")
+jjj
